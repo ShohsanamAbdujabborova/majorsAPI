@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Electrical and Computer Engineering",
+    "description": "Electrical and computer engineering focuses on the study and application of electricity, electronics, and electromagnetism. It involves designing, developing, and testing electrical systems and computer technology.",
+    "university": {
+      "name": "Massachusetts Institute of Technology",
+      "address": "77 Massachusetts Ave, Cambridge, MA 02139",
+      "country": "United States"
+    },
+    "subjects": [
+      "Engineering Mathematics",
+      "Programming Language",
+      "Korean Language",
+      "Business English",
+      "Project Management",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Civil Engineering",
+    "description": "Civil engineering deals with the design, construction, and maintenance of infrastructure projects such as roads, bridges, buildings, and water systems. It involves both technical and managerial aspects of construction projects.",
+    "university": {
+      "name": "University of New South Wales",
+      "address": "High St, Kensington NSW 2052",
+      "country": "Australia"
+    },
+    "subjects": [
+      "Engineering Mathematics",
+      "Korean Language",
+      "Fluid Mechanics",
+      "Laboratory Experiment",
+      "Computer Aided Design",
+      "Computer Programming to Science"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Architecture",
+    "description": "Architecture involves the planning, design, and construction of buildings and other structures. It combines artistic creativity with technical knowledge to create functional and aesthetically pleasing spaces.",
+    "University": {
+      "name": "ETH Zurich",
+      "address": "Rämistrasse 101, 8092 Zürich",
+      "country": "Switzerland"
+    },
+    "subjects": [
+      "History",
+      "Architectural Landscape",
+      "Introduction to Philosophy",
+      "Design",
+      "Contemporary Architecture",
+      "Digital Architecture"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "English Philology",
+    "description": "English philology is the study of the English language, including its history, structure, and literature. It encompasses linguistics, literary analysis, and language teaching.",
+    "University": {
+      "name": "University of Oxford",
+      "address": "University Offices, Wellington Square, Oxford OX1 2JD",
+      "country": "United Kingdom"
+    },
+    "subjects": [
+      "Grammar",
+      "Listening",
+      "Reading",
+      "Speaking",
+      "Korean Language",
+      "Internet of Things"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Korean Philology",
+    "description": "Korean philology is the study of the Korean language, including its grammar, vocabulary, and literature. It explores the historical development and cultural context of the Korean language.",
+    "University": {
+      "name": "Seoul National University",
+      "address": "1 Gwanak-ro, Gwanak-gu, Seoul, South Korea",
+      "country": "South Korea"
+    },
+    "subjects": [
+      "Grammar",
+      "Listening",
+      "Reading",
+      "Speaking",
+      "English Language",
+      "Internet of Things"
+    ]
+  }
+]
